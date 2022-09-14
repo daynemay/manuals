@@ -5,3 +5,4 @@
 - [Twintalker walkie talkies](./pdfs/Twintalker_walkie_talkies_manual.pdf)
 - [SelectBlinds installation and remote programming manual](./pdfs/select_blinds_installation_and_programming_manual.pdf)
 - [Avantree Jogger AS6 Bluetooth sport headphones](./pdfs/Avantree_Jogger_AS6.pdf)
+- [Tranya T20 Bluetooth earbuds](./pdfs/tranya_t20_earbuds_manual.pdf)
